@@ -1,4 +1,4 @@
-// Type definitions for Spectacle 1.1.1
+// Type definitions for Spectacle v1.1.1
 // Project: https://github.com/FormidableLabs/victory
 // Definitions by: Zachary Maybury <https://github.com/zmaybury>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
